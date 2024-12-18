@@ -15,7 +15,7 @@ public class RhombusPattern {
 			}
 			
 			for(int k = 1; k <= n; k++) {
-				System.out.print("*");
+				System.out.print("* ");
 			}
 			System.out.println();
 		}
@@ -28,10 +28,10 @@ public class RhombusPattern {
 //Pattern we want to print - Rhombus pattern
 //Enter any number you want : 5
 //* * * * * 
-//* * * * * 
 // * * * * * 
 //  * * * * * 
 //   * * * * * 
+//    * * * * * 
 
 //rows = 1 to n
 //2 loops = one for space and one for column
